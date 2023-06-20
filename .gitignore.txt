@@ -1,1 +1,2 @@
+# Ignore doc files
 *.doc
